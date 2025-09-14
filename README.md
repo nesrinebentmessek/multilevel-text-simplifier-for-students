@@ -54,13 +54,13 @@ The project is divided into four Jupyter notebooks:
 
 Input: "The Yowa era, marked by famine, ends in Japan."
 
-Simplified Output: "The Yowa era ends in Japan."
+Output: "The Yowa era ends in Japan."
 
 Input: "She now has an album and a huge hit single, which topped the charts and attracted millions of views."
 
-Simplified Output: "She now has an album and a huge hit single."
+Output: "She now has an album and a huge hit single."
 
 Input: "It was here that he composed Messiah, Zadok the Priest and Music for the Royal Fireworks."
 
-Simplified Output: "He composed Messiah, Zadok the Priest and Music for the Royal Fireworks."
+Output: "He composed Messiah, Zadok the Priest and Music for the Royal Fireworks."
 
